@@ -110,7 +110,7 @@
 
         <h4>2017</h4>
         <ul class="publicationlist">
-        <li>Diaconeasa Z, Ayvaz H, Ruginǎ D, Leopold L, Stǎnilǎ A, Socaciu C, Tăbăran F, Luput L, Mada DC, Pintea, Jefferson. Melanoma Inhibition by Anthocyanins Is Associated with the Reduction of Oxidative Stress Biomarkers and Changes in Mitochondrial Membrane Potential. Plant Foods Hum Nutr. 2017 Dec;72(4):404-410.</li>
+        <li>Diaconeasa Z, Ayvaz H, Ruginǎ D, Leopold L, Stǎnilǎ A, Socaciu C, Tăbăran F, Luput L, Mada DC, Pintea A, Jefferson A. Melanoma Inhibition by Anthocyanins Is Associated with the Reduction of Oxidative Stress Biomarkers and Changes in Mitochondrial Membrane Potential. Plant Foods Hum Nutr. 2017 Dec;72(4):404-410.</li>
           
           <li>
             Gartenmann L, Wainman A, Qurashi M, Kaufmann R, Schubert S, Raff JW, Dobbie IM. A combined 3D-SIM/SMLM approach allows centriole proteins to be localized with a precision of ∼4-5 nm. Curr Biol. 2017 Oct 9;27(19):R1054-R1055.
