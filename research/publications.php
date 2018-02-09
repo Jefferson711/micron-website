@@ -31,7 +31,7 @@
       
 	   
 	  <li>
-            Diaconeasa Z, Ayvaz H, Ruginǎ D, Leopold L, Stǎnilǎ A, Socaciu C, Tăbăran F, Luput L, Mada DC, Pintea, Jefferson A. Melanoma Inhibition by Anthocyanins Is Associated with the Reduction of Oxidative Stress Biomarkers and Changes in Mitochondrial Membrane Potential. Plant Foods Hum Nutr. 2017 Dec;72(4):404-410.
+            Diaconeasa Z, Ayvaz H, Ruginǎ D, Leopold L, Stǎnilǎ A, Socaciu C, Tăbăran F, Luput L, Mada DC, Pintea A, Jefferson A. Melanoma Inhibition by Anthocyanins Is Associated with the Reduction of Oxidative Stress Biomarkers and Changes in Mitochondrial Membrane Potential. Plant Foods Hum Nutr. 2017 Dec;72(4):404-410.
 	  </li>
           
           <li>
