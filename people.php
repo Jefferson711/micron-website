@@ -247,7 +247,7 @@
                <p><a href="http://users.ox.ac.uk/~quee2159/index.html#">
                      <img src="images/stephan.jpg" alt="Stephan"
                        width="60" height="80" ></a>
-                     Stephan is a Henry Dale Research fellow based in biochemistry</p>
+                     Stephan is a Henry Dale Research fellow based in biochemistry. Group website: https://www.bioch.ox.ac.uk/uphofflab/</p>
 
               </td>
               </tr>
